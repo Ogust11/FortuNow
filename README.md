@@ -1,0 +1,2 @@
+# FortuNow
+Betting App
